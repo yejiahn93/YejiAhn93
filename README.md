@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Yeji Ahn
-- 👀 I’m interested in full stack developer and front-end developer
-- 
+# 👋 Hi, I’m Yeji Ahn
+## 👀 I’m interested in full stack developer and front-end developer
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/yeeegeee/)](https://www.instagram.com/yeeegeee/) 
 
