@@ -3,6 +3,7 @@
 👋 Hi, My name is Yeji! <br>
 💻 I'm a Full Stack Developer based in Los Angeles.
 
+#TECHNICAL SKILLS
 <hr width="850px;" color="red" size="5">
 
 
