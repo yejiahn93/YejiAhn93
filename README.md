@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN%20👩🏻‍💻&fontSize=90&fontColor=FFEEE9)
 <br />
-<p align="center">
-👋 Hi, My name is Yeji! <br>
-💻 I'm a Full Stack Developer based in Los Angeles.</p>
 
 <div align=center>
 	
@@ -11,6 +8,12 @@
 	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejiahn93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 	
   </div>
+  
+<p align="center">
+👋 Hi, My name is Yeji! <br>
+💻 I'm a Full Stack Developer based in Los Angeles.</p>
+
+
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
