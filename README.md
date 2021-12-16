@@ -6,6 +6,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejiahn93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -32,9 +33,7 @@
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/)
 	
   </div>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
-[![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/)
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyejiahn93&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <!---
 yejiahn93/yejiahn93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
