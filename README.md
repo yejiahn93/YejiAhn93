@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN%20👩🏻‍💻&fontSize=90&fontColor=FAF4F2&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN%20👩🏻‍💻&fontSize=90&fontColor=FAF4F2)
 <br />
 👋 Hi, My name is Yeji! <br>
-I'm a Full Stack Developer based in Los Angeles.
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
+💻 I'm a Full Stack Developer based in Los Angeles.
+
 
 <br />
 
