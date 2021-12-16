@@ -18,7 +18,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp </p>
 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yejiahn93@gmail.com">
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/)
