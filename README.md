@@ -2,6 +2,7 @@
 <br />
 👋 Hi, My name is Yeji! <br>
 I'm a Full Stack Developer based in Los Angeles.
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
 <br />
 
