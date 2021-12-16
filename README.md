@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN%20👩🏻‍💻&fontSize=90&fontColor=FFEEE9)
 <br />
+<p align="center">
 👋 Hi, My name is Yeji! <br>
-💻 I'm a Full Stack Developer based in Los Angeles.
+💻 I'm a Full Stack Developer based in Los Angeles.</p>
 <br />
-## ⚙️TECHNICAL SKILLS
+
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+</br>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
