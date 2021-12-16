@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN%20👩🏻‍💻&fontSize=90&fontColor=FFBDA8)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=200&section=heade&text=YEJI%20AHN%20👩🏻‍💻&fontSize=90&fontColor=FFEEE9)
 <br />
 👋 Hi, My name is Yeji! <br>
 💻 I'm a Full Stack Developer based in Los Angeles.
