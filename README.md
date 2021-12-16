@@ -3,7 +3,6 @@
 👋 Hi, My name is Yeji! <br>
 💻 I'm a Full Stack Developer based in Los Angeles.
 
-
 <br />
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
