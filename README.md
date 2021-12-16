@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-squar&logo=react&logoColor=61DAFB"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=python&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/></a> &nbsp</p>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-squar&logo=django&logoColor=white"/></a> &nbsp</p>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/) 
