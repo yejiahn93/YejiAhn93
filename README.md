@@ -15,7 +15,8 @@
 
 
 
-<h3 align="center"><b>🛠 Tech Stack 🛠</b><hr width="200px"></h3>
+<h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
+<hr align="center" width="200px">
 
 </br>
 <p align="center">
