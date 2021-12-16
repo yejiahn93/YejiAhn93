@@ -3,9 +3,7 @@
 👋 Hi, My name is Yeji! <br>
 💻 I'm a Full Stack Developer based in Los Angeles.
 
-# TECHNICAL SKILLS
-<hr width="850px;" color="red" size="5">
-
+## TECHNICAL SKILLS
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/) 
