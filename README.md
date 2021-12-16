@@ -4,7 +4,7 @@
 💻 I'm a Full Stack Developer based in Los Angeles.
 
 <br />
-<hr width=600, color=EFC0B6>
+<hr width="600px;" color="red">
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
