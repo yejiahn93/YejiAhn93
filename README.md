@@ -1,6 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yejiahn93@gmail.com)](mailto:yejiahn93@gmail.com)
 [![linkedin Badge](https://img.shields.io/badge/-linkedin-2a7bdd?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yeji-ahn-42973b101//)](https://www.linkedin.com/in/yeji-ahn-42973b101/) 
-![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EFC0B6&height=300&section=heade&text=YEJI%20AHN&fontSize=90&fontColor=white)
 <br />
 👋 Hi, My name is Yeji! <br>
 I'm a Full Stack Developer based in Los Angeles.
